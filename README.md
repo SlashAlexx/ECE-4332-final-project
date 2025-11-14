@@ -8,6 +8,8 @@ Submission Link: https://cmsworkshops.com/ICASSP2026/Papers/Submission.asp?Type=
 
 Challenge website: https://rase-challenge.github.io/RASE2026-Challenge/
 
+GitHub for Python Training / Template: https://github.com/RASE-Challenge/challenge_baseline2026
+
 Data Set Google Drive Link: ...
 
 Title: RASE 2026: Radar Acoustic Speech Enhancement
