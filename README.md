@@ -10,7 +10,7 @@ Challenge website: https://rase-challenge.github.io/RASE2026-Challenge/
 
 GitHub for Python Training / Template: https://github.com/RASE-Challenge/challenge_baseline2026
 
-Data Set Google Drive Link: ...
+Data Set Google Drive Link: https://drive.google.com/drive/folders/1q9CMcuDOQeNyYf6fSDgTwbCLctVPEPC7?usp=sharing
 
 Title: RASE 2026: Radar Acoustic Speech Enhancement
 
