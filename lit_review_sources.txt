@@ -1,0 +1,22 @@
+List of potential articles for literature review - found these through the OneSearch function on TTU's Library website with the
+search phrase speech acquisition radar
+
+1. A new kind of non-acoustic speech acquisition method based on millimeter wave radar
+Authors: S. Li, Y. Tian, G. Lu, Y. Zhang, H. Xue, J. Wang, & X. Jing.
+Journal Information: Electromagnetic waves (Cambridge, Mass.), 2012-08, Vol.130, p.17-40
+
+2. A Novel Method for Speech Acquisition and Enhancement by 94 GHz Millimeter-Wave Sensor
+Authors: Chen, Fuming; Li, Sheng; Li, Chuantao; Liu, Miao; Li, Zhao; Xue, Huijun ; Jing, Xijing ; Wang, Jianqi
+Journal Information: Sensors (Basel, Switzerland), 2015-12, Vol.16 (1), p.50-50, Article 50
+
+3. Noise Suppression in 94 GHz Radar-Detected Speech Based on Perceptual Wavelet Packet
+Authors: Chen, Fuming ; Li, Chuantao ; An, Qiang ; Liang, Fulai ; Qi, Fugui ; Li, Sheng ; Wang, Jianqi
+Journal Information: Entropy (Basel, Switzerland), 2016-07, Vol.18 (7), p.265, Article 265
+
+4. Acquisition and Enhancement of Remote Human Vocal Signals based on Doppler Radar
+Authors: Xiang, Xiaoxiao ; Zhang, Xiaojuan ; Chen, Haozhe
+Journal Information: IEEE sensors journal, 2021-09, Vol.21 (18), p.20348-20361
+
+5. mmFusion: mmWave-Assisted Mono Speech Enhancement for Multisource Aliasing and Addressing
+Authors: Tang, Xiangyi ; Xiong, Yuyong ; Meng, Haibin ; Tian, Wendi ; He, Qingbo ; Peng, Zhike
+Journal Information: IEEE sensors journal, 2025-09, Vol.25 (18), p.35223-35236
